@@ -6,6 +6,8 @@ I'm a Computer Science graduate with a concentration in Human-Computer Interacti
 
 I'm currently seeking **full-time opportunities** in UX Design, UX Research, Data Analytics, Business Intelligence, and other human-centered technology roles.
 
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/qudrat-siyal/) • [Email](mailto:siyalqudrat@gmail.com)
+
 ## 👨‍💻 About Me
 
 My interests include:
@@ -75,6 +77,11 @@ I'm especially interested in roles where I can combine technical and human-cente
 ## 🌱 What I Value
 
 I enjoy projects that sit at the intersection of **people, data, and technology**. I'm especially interested in designing understandable experiences, using data to support better decisions, and thinking carefully about accessibility, privacy, and responsible AI.
+
+## 📬 Contact
+
+- **LinkedIn:** [linkedin.com/in/qudrat-siyal](https://www.linkedin.com/in/qudrat-siyal/)
+- **Email:** [siyalqudrat@gmail.com](mailto:siyalqudrat@gmail.com)
 
 ---
 
