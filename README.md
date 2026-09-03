@@ -26,7 +26,7 @@ Outside of projects, I enjoy learning new technologies, strengthening my technic
 ## 🛠️ Technologies & Tools
 
 **Programming & Data**  
-Python • SQL • PostgreSQL • R • JavaScript
+Python • SQL • PostgreSQL • R • JavaScript • Java
 
 **Web**  
 HTML • CSS • JavaScript • Streamlit
